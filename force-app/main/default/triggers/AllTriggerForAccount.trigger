@@ -2,7 +2,7 @@
  * @description       : 
  * @author            : ChangeMeIn@UserSettingsUnder.SFDoc
  * @group             : 
- * @last modified on  : 01-23-2023
+ * @last modified on  : 02-23-2023
  * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
 **/
 trigger AllTriggerForAccount on Account (before insert, before update, before delete, after insert , after update) {
