@@ -12,7 +12,7 @@ trigger AllTriggerForAccount on Account (before insert, before update, before de
 //      if(Trigger.isInsert)
 //        {
 //          for(Account acc:Trigger.new)
-//           {
+//           
 //             if(acc.Industry=='Media')
 //             {
 //                 acc.Rating ='Hot';

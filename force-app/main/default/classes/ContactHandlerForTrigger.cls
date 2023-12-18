@@ -17,7 +17,7 @@ public class ContactHandlerForTrigger {
     }
 
     //Method 2
-    public static void  phoneUpdateInAccount(List<Contact> newList){
+    public static void   phoneUpdateInAccount(List<Contact> newList){
       
         List<Account> listAccount =new List<Account>();
         for(Contact con:newList)
